@@ -29,7 +29,12 @@
   "entityshredder.jei.power": "%s EU/t (엔티티당)",
   "entityshredder.jei.duration": "기본 사이클: %s초",
   "entityshredder.jei.success": "기본 성공 확률: %s%%",
-  "entityshredder.jei.coil": "코일: 티어당 제작시간 -5% (최소 5%)",
+  "entityshredder.jei.coil": "코일: 티어당 제작시간 -5%% (최소 5%%)",
   "entityshredder.jei.modules": "모듈 선택 장착, N종 선택 시 EU/t N배",
-  "entityshredder.jei.multi_select": "N종 선택 시 EU/t N배"
+  "entityshredder.jei.multi_select": "N종 선택 시 EU/t N배",
+  "entityshredder.jei.per_cycle": "성공 사이클당 (기본): %s개",
+  "entityshredder.jei.output_note": "시공간 압축 / 시간 가속 모듈 배율이 곱해집니다",
+  "entityshredder.jei.cycling": "나머지 전리품 %s종이 순환 표시됩니다",
+  "entityshredder.jei.no_preview": "미리보기 없음",
+  "entityshredder.jei.drop_kinds": "전리품 %s종"
 }

@@ -29,7 +29,12 @@
   "entityshredder.jei.power": "%s EU/t (per entity)",
   "entityshredder.jei.duration": "Base cycle: %s s",
   "entityshredder.jei.success": "Base success rate: %s%%",
-  "entityshredder.jei.coil": "Coils: -5% time per tier (min 5%)",
+  "entityshredder.jei.coil": "Coils: -5%% time per tier (min 5%%)",
   "entityshredder.jei.modules": "Optional modules; N entities = N x EU/t",
-  "entityshredder.jei.multi_select": "N entities selected = N x EU/t"
+  "entityshredder.jei.multi_select": "N entities selected = N x EU/t",
+  "entityshredder.jei.per_cycle": "Per successful cycle (base): %s",
+  "entityshredder.jei.output_note": "Multiplied by Spacetime / Time Acceleration modules",
+  "entityshredder.jei.cycling": "Cycling through %s more drops",
+  "entityshredder.jei.no_preview": "No preview",
+  "entityshredder.jei.drop_kinds": "%s kinds of drops"
 }
